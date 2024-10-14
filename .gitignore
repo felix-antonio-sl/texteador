@@ -1,0 +1,18 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar archivos y carpetas compiladas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.sqlite3
+
+# Archivos creados por MacOS
+.DS_Store
+
+# Archivos de configuración del entorno
+.env
